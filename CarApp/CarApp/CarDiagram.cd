@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarApp.Models.Car">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAAAEAAAAAAAAAgAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Models\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarApp.Models.CarMDPMenuItem">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\CarMDPMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarApp.ViewModels.CarCatalogViewModel">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAARAAAQAIAAAAAAAAAAgAAAAABAAAACBAAACAQ=</HashCode>
+      <FileName>ViewModels\CarCatalogViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarApp.ViewModels.CarDetailsViewModel">
+    <Position X="7.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAQAgIIAAAAEQAAAAgAAAwAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ViewModels\CarDetailsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarApp.ViewModels.CarMasterDetailPageMasterViewModel">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CarMasterDetailPageMasterViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarApp.ViewModels.CartViewModel">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CartViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarApp.Views.CarCatalogPage">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\CarCatalogPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarApp.ViewModels.MapViewModel">
+    <Position X="12" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MapViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

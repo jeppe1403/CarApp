@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarApp.Views.CarCatalogPage"
+             Title="Car Catalog" >
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="10">
+            <ListView x:Name="lstCars" ItemsSource="{Binding Products}" RowHeight="60" SelectedItem="{Binding SelectedProduct}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell Text="{Binding CarModel}" Detail="{Binding Price, StringFormat='{0} $'}" ImageSource="{Binding ImageSource}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

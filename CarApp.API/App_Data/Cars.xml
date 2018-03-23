@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <car id="101">
+    <carmodel>Peugeot 208</carmodel>
+    <yearofmodel>2016</yearofmodel>
+    <price>22999</price>
+    <imagesource>http://media.peugeot.co.uk/image/25/7/208_allure_premium_exterior-coulour_twilight_blue.100257.19.jpg</imagesource>
+    <description>
+The Peugeot 208 is a supermini (B-segment in Europe) produced by the French automaker Peugeot, and unveiled at the Geneva Motor Show in March 2012.
+The first 208 models were three door hatchbacks produced in 2011, at the company's new plant in Slovakia.
+In June 2012, as five door hatchbacks became available, production of the 208 also commenced at Peugeot's French plants at Mulhouse and at Poissy.
+    </description>
+  </car>
+  <car id="102">
+    <carmodel>Volkswagen Polo</carmodel>
+    <yearofmodel>2012</yearofmodel>
+    <price>33999</price>
+    <imagesource>http://files.prokerala.com/automobile/images/photo/full/volkswagen-polo-329/volkswagen-polo-allstar-exterior-front-side-view.jpg</imagesource>
+    <description>
+Den nye Polo: pålidelig, sikker og sportslig. Med sit tydelige formsprog og elegante linjeføring opnås den perfekte balance mellem design og funktion. Den overbeviser med komfortable, sikre og moderne funktioner. 
+Kort sagt: Polo giver dig lyst til at køre i den.
+    </description>
+  </car>
+  <car id="103">
+    <carmodel>Toyota Yaris</carmodel>
+    <yearofmodel>2010</yearofmodel>
+    <price>15999</price>
+    <imagesource>http://images.toyota-europe.com/gb/ya/width/1200/exterior-3.jpg</imagesource>
+    <description>
+Noget helt særligt omgiver den nye Yaris. Bilens dristige farveskala, energiske linjer og stilfulde funktioner er med til at give dig en stressfri og behagelig køreoplevelse. Den dynamik, du mærker i den nye Yaris, vil ændre en helt almindelig køretur til en rejse fyldt med energi og kraft. Den nye Yaris Hybrid kombinerer et imponerende lavt forbrug og CO2-udslip med suveræn kørekomfort ved bykørsel.
+    </description>
+  </car>
+  <car id="104">
+    <carmodel>Tesla Model S</carmodel>
+    <yearofmodel>2017</yearofmodel>
+    <price>56999</price>
+    <imagesource>http://buyersguide.caranddriver.com/media/assets/submodel/280_7651.jpg</imagesource>
+    <description>
+      Boasting up to 337 miles of range, the Model S is the all-electric dream car envied by many. Icing on the cake is Ludicrous mode, which blasts the top P100D to 60 mph in a claimed 2.5 seconds.
+      The lower-spec models offer reduced driving ranges and features. Luxury items such as an air filter that Tesla says can protect occupants from bioweapons and pollutants—plus available high-tech features such as Tesla’s Autopilot—seal the deal.
+    </description>
+  </car>
+  <car id="105">
+    <carmodel>Ford Fiesta</carmodel>
+    <yearofmodel>2016</yearofmodel>
+    <price>19999</price>
+    <imagesource>http://www.fordeumedia-b.ford.com/nas/gforcenaslive/irl/00m/yyj/images/irl00myyjjd3jex(a)(a)jkn_21_0.png</imagesource>
+    <description>
+Ultratidssvarende stil og personliggørelse, så du kan gøre bilen til din helt egen. Mere avanceret teknologi og uvurderlige funktioner. En opløftende, dynamisk køreoplevelse, som kun kan få dig til at smile.
+Den næste generation af Fiesta er nytænkt og genopfundet. Og som du snart vil se, når du oplever dens intelligente design, omfatter denne bil meget mere end ved første øjekast.
+    </description>
+  </car>
+  <car id="106">
+    <carmodel>Suzuki Swift</carmodel>
+    <yearofmodel>2005</yearofmodel>
+    <price>9599</price>
+    <imagesource>http://cdn2.carbuyer.co.uk/sites/carbuyer_d7/files/car_images/suzuki-swift-sport-hatchback-2012-front-quarter-main.jpg</imagesource>
+    <description>
+Den nye Suzuki Swift får humøret til at lette. Med sin nyudviklede letvægtsplatform har den smidt hele 120 kg, selv om den er tungt pakket med fede features. Og med de ekstra centimeter i bredden giver designet også bredere smil. 
+Den fås med 90 hk Dualjet-motor og med en 112 hk Boosterjet-turbomotor, der i den grad booster køreglæden. Begge findes endda i mild-hybrid-udgave, som er optur for både dig, benzinøkonomien og miljøet.
+    </description>
+  </car>
+  <car id="107">
+    <carmodel>BMW 520d</carmodel>
+    <yearofmodel>2014</yearofmodel>
+    <price>41999</price>
+    <imagesource>http://images.buyacar.co.uk/img/med/bmw_5_series_touring_114080.jpg</imagesource>
+    <description>
+      The 520d is fractionally better on fuel, returning 62.8mpg to the A6’s 61.4mpg – although this provides mere bragging rights.
+      CO2 emissions also fall in favour of the BMW, with 118g/km versus 119g/km – yet both cars still reside within the same tax band, so there’s no real benefit for company buyers.
+    </description>
+  </car>
+</catalog>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarApp.Views.CarDetailsPage"
+             Title="Car Details" >
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="{Binding CarModel}" HorizontalOptions="Center" FontSize="Medium" TextColor="Black" />
+                <Image Source="{Binding ImageSource}" />
+                <Button Text="Add to Cart" Command="{Binding AddProductToCartCommand}" />
+                <Label Text="{Binding Price, StringFormat='Price: {0} $'}" />
+                <Label Text="{Binding YearOfModel, StringFormat='Model Year: {0}'}" />
+                <Label Text="{Binding Description, StringFormat='Description:{0}'}" Opacity="0.8" LineBreakMode="WordWrap"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
